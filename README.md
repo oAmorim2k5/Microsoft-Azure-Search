@@ -15,6 +15,7 @@
 - After we create our project we go to prompt to search:
 
 Input:
+
 ![alt text](img/image.png)
 
 Output:
